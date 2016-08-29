@@ -1,2 +1,2 @@
 # hello-world
-Derek's first repo
+Derek's first repo exercise  for github
